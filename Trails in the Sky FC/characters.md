@@ -1,43 +1,29 @@
 Character list
 
-[Estelle](#Estelle)
-[Test char 1](#test-char)
-
-
+* [Estelle](#Estelle)
+* [Cassius Bright](#cassius)
+* [Joshua](#joshua)
 
 ### Estelle
 
+Estelle Bright
+
+[Cassius](#cassius)'s daughter
+
 The main character
+
 Uses a staff
 
 Has a sister Schera that's off adventuring
 
+### Joshua
 
+Joshua 
 
+### Cassius
 
+Cassius Bright
 
+[Estelle](#estelle)'s father
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Test char
-
-Some test text
+Brought some strange boy home
