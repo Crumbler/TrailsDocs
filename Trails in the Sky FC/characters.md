@@ -3,6 +3,7 @@ Character list
 * [Estelle](#Estelle)
 * [Cassius Bright](#cassius)
 * [Joshua](#joshua)
+* [Schera](#schera)
 
 ### Estelle
 
@@ -16,6 +17,11 @@ Uses a staff
 
 Has a sister Schera that's off adventuring
 
+Collects shoes
+
+Afraid of heights?
+
+
 ### Joshua
 
 Joshua 
@@ -27,3 +33,9 @@ Cassius Bright
 [Estelle](#estelle)'s father
 
 Brought some strange boy home
+
+### Schera
+
+Scherazard
+
+First female bracer in the Rolen region
