@@ -12,7 +12,6 @@ Monster extermination, crime prevention, finding lost items
 Escorting stuff
 
 # Orbments
-
 Mechanical devices that operate using
 orbal energy
 Effects depend on the quartz and septium
