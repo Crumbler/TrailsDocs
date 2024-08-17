@@ -1,6 +1,7 @@
 Character list
 
 * [Estelle](#Estelle)
+* [Josette](#josette)
 * [Cassius Bright](#cassius)
 * [Joshua](#joshua)
 * [Schera](#schera)
@@ -21,6 +22,14 @@ Collects shoes
 
 Afraid of heights?
 
+
+### Josette
+
+Josette Haar
+
+Student at the Jenis Royal Academy
+
+Came to Rolent for studies
 
 ### Joshua
 
