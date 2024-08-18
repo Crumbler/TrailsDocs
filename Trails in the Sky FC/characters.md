@@ -20,8 +20,7 @@ Has a sister Schera that's off adventuring
 
 Collects shoes
 
-Afraid of heights?
-
+Had her mother Lena die while protecting her when the Rolen Clock Tower got bombed
 
 ### Josette
 
@@ -30,6 +29,8 @@ Josette Haar
 Student at the Jenis Royal Academy
 
 Came to Rolent for studies
+
+Fake, part of the Capua family, sky bandit
 
 ### Joshua
 
