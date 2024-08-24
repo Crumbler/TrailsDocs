@@ -5,6 +5,8 @@ Character list
 * [Cassius Bright](#cassius)
 * [Joshua](#joshua)
 * [Schera](#schera)
+* [General Morgan](#morgan)
+* [Olivier](#olivier)
 
 ### Estelle
 
@@ -49,3 +51,17 @@ Brought some strange boy home
 Scherazard
 
 First female bracer in the Rolen region
+
+### Morgan
+
+General Morgan
+
+Guards the Haken Gate
+
+Hates bracers
+
+### Olivier
+
+Travelling bard and musician from the Erebonian Empire
+
+Bisexual pervert and weirdo
