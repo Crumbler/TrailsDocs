@@ -4,9 +4,11 @@ Character list
 * [Josette](#josette)
 * [Cassius Bright](#cassius)
 * [Joshua](#joshua)
-* [Schera](#schera)
+* [Scherazard](#schera)
 * [General Morgan](#morgan)
 * [Olivier](#olivier)
+* [Agate Crosner](#agate)
+* [Colonel Richard](#richard)
 
 ### Estelle
 
@@ -46,6 +48,8 @@ Cassius Bright
 
 Brought some strange boy home
 
+Was an excellent officer in the army.
+
 ### Schera
 
 Scherazard
@@ -65,3 +69,17 @@ Hates bracers
 Travelling bard and musician from the Erebonian Empire
 
 Bisexual pervert and weirdo
+
+### Agate
+
+Agate Crosner
+
+Senior bracer
+
+Red haired
+
+### Richard
+
+Colonel Alan Richard
+
+Works in the army's Intelligence Division.
