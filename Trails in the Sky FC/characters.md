@@ -70,6 +70,8 @@ Travelling bard and musician from the Erebonian Empire
 
 Bisexual pervert and weirdo
 
+Somewhat of an operative for the Empire
+
 ### Agate
 
 Agate Crosner
