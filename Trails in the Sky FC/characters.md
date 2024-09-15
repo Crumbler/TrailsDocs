@@ -9,6 +9,7 @@ Character list
 * [Olivier](#olivier)
 * [Agate Crosner](#agate)
 * [Colonel Richard](#richard)
+* [Zin Valhek](#zin)
 
 ### Estelle
 
@@ -38,7 +39,9 @@ Fake, part of the Capua family, sky bandit
 
 ### Joshua
 
-Joshua 
+Joshua Bright
+
+Associated with a guy with silver hair
 
 ### Cassius
 
@@ -50,11 +53,13 @@ Brought some strange boy home
 
 Was an excellent officer in the army.
 
+Seen at Erebonian Bracer Guild branches?
+
 ### Schera
 
 Scherazard
 
-First female bracer in the Rolen region
+First female bracer in the Rolent region
 
 ### Morgan
 
@@ -85,3 +90,11 @@ Red haired
 Colonel Alan Richard
 
 Works in the army's Intelligence Division.
+
+Shady, associated with the Gospel
+
+### Zin
+
+Zin Valhek
+
+Huge bracer from the Calvard Republic
