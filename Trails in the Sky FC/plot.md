@@ -12,3 +12,7 @@ For the past several months before Queen Alicia's birthday
 guild branches in the Empire have been attacked.
 
 Some Royal Guardsmen have revolted against the queen and are staging terrorist attacks.
+
+Colonel Richard is attempting a shadow coup by manipulating Duke Dunan.
+
+He tries to use the Aureole and the Shining Ring
