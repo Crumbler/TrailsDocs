@@ -45,6 +45,14 @@ Joshua Bright
 
 Associated with a guy with silver hair
 
+Enforces №13
+
+Abandoned by the Ouroboros society
+
+The Black Fang
+
+Joshua Astray
+
 ### Cassius
 
 Cassius Bright
@@ -62,6 +70,16 @@ Brought some strange boy home
 Was an excellent officer in the army.
 
 Seen at Erebonian Bracer Guild branches?
+
+### Alba
+
+Professor Alba
+
+Seemingly an archaeologist
+
+Actualy one of the seven Snake Apostles
+
+Weissmann the Faceless
 
 ### Kloe
 
