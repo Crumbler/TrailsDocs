@@ -3,6 +3,8 @@ Character list
 * [Estelle](#Estelle)
 * [Josette](#josette)
 * [Cassius Bright](#cassius)
+* [Alba](#alba)
+* [Lorence](#lorence)
 * [Kloe](#kloe)
 * [Joshua](#joshua)
 * [Scherazard](#schera)
@@ -12,6 +14,7 @@ Character list
 * [Colonel Richard](#richard)
 * [Zin Valhek](#zin)
 * [Professor Russel](#russel)
+* [Kevin](#kevin)
 
 ### Estelle
 
@@ -81,6 +84,14 @@ Actualy one of the seven Snake Apostles
 
 Weissmann the Faceless
 
+### Lorence
+
+Lieutenant Lorence
+
+Server under Colonel Richard
+
+Senior agent from Ouroboros
+
 ### Kloe
 
 Kloe, student at the Royal Academy in Ruan
@@ -138,3 +149,9 @@ Professor Russel from Zeiss's Central Factory
 Kindapped by Colonel Richard to study the Gospel
 
 Participated in the research of some artifact unearthed beneath Grancel 10 years ago
+
+### Kevin
+
+Kevin Graham
+
+A priest of the Septian Church

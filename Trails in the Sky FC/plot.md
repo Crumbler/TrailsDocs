@@ -16,3 +16,9 @@ Some Royal Guardsmen have revolted against the queen and are staging terrorist a
 Colonel Richard is attempting a shadow coup by manipulating Duke Dunan.
 
 He tries to use the Aureole and the Shining Ring
+
+Coup thwarted, seal broken
+
+Weissmann manipulated people
+
+Joshua left to kill Weissmann

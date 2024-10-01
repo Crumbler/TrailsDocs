@@ -1,5 +1,9 @@
 
-
+* [Mira](#mira)
+* [Bracers](#bracers)
+* [Orbments](#orbments)
+* [Liberl](#kingdom-of-liberl)
+* [Ourobors](#ouroboros)
 
 # Mira
 The currency
@@ -29,3 +33,11 @@ One of the leading producers of septium
 Known for its high level of technology used to develop orbments
 
 Was invaded by the Erebonian Empire ten years ago
+
+# Ouroboros
+
+The Society of Ourobors
+
+Seeks to manipulate the world from the shadows
+
+Led by the Grandmaster
