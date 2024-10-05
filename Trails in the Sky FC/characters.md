@@ -4,7 +4,7 @@ Character list
 * [Josette](#josette)
 * [Cassius Bright](#cassius)
 * [Alba](#alba)
-* [Lorence](#lorence)
+* [Lorence (Loewe)](#lorence)
 * [Kloe](#kloe)
 * [Joshua](#joshua)
 * [Scherazard](#schera)
@@ -15,6 +15,7 @@ Character list
 * [Zin Valhek](#zin)
 * [Professor Russel](#russel)
 * [Kevin](#kevin)
+* [Campanella](#campanella)
 
 ### Estelle
 
@@ -54,7 +55,11 @@ Abandoned by the Ouroboros society
 
 The Black Fang
 
-Joshua Astray
+Joshua Astray, Mister Chessmaster
+
+From the village of Hamel
+
+Had a dear person called Karin?
 
 ### Cassius
 
@@ -87,6 +92,8 @@ Weissmann the Faceless
 ### Lorence
 
 Lieutenant Lorence
+
+Loewe the Blademaster
 
 Server under Colonel Richard
 
@@ -155,3 +162,11 @@ Participated in the research of some artifact unearthed beneath Grancel 10 years
 Kevin Graham
 
 A priest of the Septian Church
+
+### Campanella
+
+Weird kid, "The Fool"
+
+Part of Ouroboros
+
+Handled the attacks on the Guilds in Erebonia

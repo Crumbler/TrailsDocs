@@ -21,4 +21,6 @@ Coup thwarted, seal broken
 
 Weissmann manipulated people
 
-Joshua left to kill Weissmann
+Joshua left to stop Weissmann
+
+Estelle goes to Leman to train
