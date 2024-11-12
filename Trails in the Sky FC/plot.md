@@ -23,4 +23,20 @@ Weissmann manipulated people
 
 Joshua left to stop Weissmann
 
-Estelle goes to Leman to train
+Estelle goes to Leman to train, then to Ruan to work with Agate
+
+There are multiple Gospels. Bleublanc is experimenting with one of them for projection.
+
+In Zeiss strange earthquakes are being caused by Direwolf.
+
+In Grancel a non-aggression pact is being signed by Erebonia, Calvard and Liberl.
+
+All pertaining personnel received threatening letters.
+
+Renne was an Enforcer
+
+Konone Amalthea attemped another coup to free Richard
+
+In Rolent there's a strange fog, caused by Luci, Scherazard's acquaintance
+
+Loewe and the professor are using an ancient dragon for an experiment
