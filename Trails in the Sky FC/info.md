@@ -4,6 +4,9 @@
 * [Orbments](#orbments)
 * [Liberl](#kingdom-of-liberl)
 * [Ourobors](#ouroboros)
+* [Hamel](#hamel)
+* [Four towers](#four-towers)
+* [Auerole](#auerole)
 
 # Mira
 The currency
@@ -41,3 +44,22 @@ The Society of Ourobors
 Seeks to manipulate the world from the shadows
 
 Led by the Grandmaster
+
+# Hamel
+
+A village where Joshua and Loewe lived
+
+Attacked by men with Liberlian arms, used by the Empire as an excuse for war
+
+# Four towers
+
+The four towers in Liberl were built to keep the Aureole sealed
+in another dimension
+
+Conduits for the power of the shining ring
+
+# Auerole
+
+A floating city from another dimension
+
+Influences our dimension through Gospels, which act as terminals
