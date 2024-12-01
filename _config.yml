@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+
+relative_links:
+  enabled: true
+  collections: true
+
+navbar-links:
+  Home: "info.md"
+  Trails in the Sky FC: "Trails in the Sky FC/info.md"
+
+post_search: true
+navbar-var-length: false
