@@ -52,3 +52,13 @@ They built an airship-base Glorius
 Liberls is under attack by unknown red soldiers and various beasts. The tetracyclic towers have some sort of dark warped space on their peaks.
 
 The warped space around the towers disappeared and the floating city of Aureole appeared, sucking in orbal energy.
+
+After an unsuccessful attack on Grancel by Ouroboros, Klaudia decided to take the throne.
+
+The Erebonian Empire advanced towards the Haken Gate with steam tanks.
+
+Olivert reveals himself and averts disaster by asking the army to wait for proof of the floating city being harmless.
+
+The team uses the Arseille to get onto the city and crashes, trying to find the Aureole.
+
+They make the Aureole disappear, with Kevin killing Weissman.

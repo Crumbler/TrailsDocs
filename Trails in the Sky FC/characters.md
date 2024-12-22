@@ -105,6 +105,8 @@ Kloe, student at the Royal Academy in Ruan
 
 Actually the royal princess
 
+Heir to the throne
+
 ### Schera
 
 Scherazard
@@ -120,6 +122,10 @@ Guards the Haken Gate
 Hates bracers
 
 ### Olivier
+
+Fake name: Olivier Lenheim
+
+Olivert Reise Arnor, son of the Emperor Eugent III
 
 Travelling bard and musician from the Erebonian Empire
 
