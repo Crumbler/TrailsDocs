@@ -15,6 +15,8 @@ Character list
 * [Zin Valhek](#zin)
 * [Professor Russel](#russel)
 * [Kevin](#kevin)
+* [Ries](#ries)
+* [Rufina](#rufina)
 * [Campanella](#campanella)
 
 ### Estelle
@@ -168,6 +170,20 @@ Participated in the research of some artifact unearthed beneath Grancel 10 years
 Kevin Graham
 
 A priest of the Septian Church
+
+A Gralritter, a Dominion
+
+### Ries
+
+Ries Argent
+
+Kevin's squire
+
+### Rufina
+
+Rufina Argent
+
+Ries's older sister
 
 ### Campanella
 

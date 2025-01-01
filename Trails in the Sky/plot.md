@@ -62,3 +62,5 @@ Olivert reveals himself and averts disaster by asking the army to wait for proof
 The team uses the Arseille to get onto the city and crashes, trying to find the Aureole.
 
 They make the Aureole disappear, with Kevin killing Weissman.
+
+Half a year later a strange cube is recovered and it sends Kevin and his companions to a strange dimension called Phantasma.
