@@ -173,6 +173,10 @@ A priest of the Septian Church
 
 A Gralritter, a Dominion
 
+Was homeless and got adopted by the Argent family.
+
+Became a squire and then a Dominion to follow Rufina's path.
+
 ### Ries
 
 Ries Argent
@@ -184,6 +188,8 @@ Kevin's squire
 Rufina Argent
 
 Ries's older sister
+
+Likes Quincy's chocolate
 
 ### Campanella
 

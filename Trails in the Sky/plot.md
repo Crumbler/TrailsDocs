@@ -49,7 +49,7 @@ After a base raid, Estelle was captured
 
 They built an airship-base Glorius
 
-Liberls is under attack by unknown red soldiers and various beasts. The tetracyclic towers have some sort of dark warped space on their peaks.
+Liberl is under attack by unknown red soldiers and various beasts. The tetracyclic towers have some sort of dark warped space on their peaks.
 
 The warped space around the towers disappeared and the floating city of Aureole appeared, sucking in orbal energy.
 
